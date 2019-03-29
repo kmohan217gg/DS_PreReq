@@ -1,6 +1,6 @@
 package Test;
 
-public class LinearSearchIterative {
+public class Search_LinearSearchIterative {
 	
 	public static void main(String[] args)
 	{
