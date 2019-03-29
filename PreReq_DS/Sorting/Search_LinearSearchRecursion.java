@@ -1,6 +1,6 @@
 package Test;
 
-public class LinearSearchRecursion {
+public class Search_LinearSearchRecursion {
 	
 	public static void main(String[] args)
 	{
